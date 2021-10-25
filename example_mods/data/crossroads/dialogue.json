@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "########## PLEASE HELP ME I'VE DIED 14 TIMES NOW"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Nooby",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i've taught you all i can what more do you need"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": " HELP"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Nooby",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "uhhhhh"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey can you help me play the game?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Nooby",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what would i do though?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "idk"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what if we rap?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Nooby",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wrong game but sure!!! :D"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "aight lets get this ###############"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHAT HAPPENED TO MY MESSAGE?!?!"
+		}
+	]
+}
