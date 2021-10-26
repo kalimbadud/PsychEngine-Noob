@@ -1,0 +1,63 @@
+{
+	"position": [
+		-150,
+		-360
+	],
+	"dialogue_pos": "left",
+	"scale": 0.499999999999999,
+	"image": "noobyPortrait",
+	"animations": [
+		{
+			"loop_name": "noobyPortrait hello",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "noobyPortrait hello",
+			"anim": "nooby-hello",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "noobyPortrait awkward",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "noobyPortrait awkward",
+			"anim": "nooby-awkward",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "noobyPortrait surprised",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "noobyPortrait surprised",
+			"anim": "nooby-surprised",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "noobyPortrait nervous",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "noobyPortrait nervous",
+			"anim": "nooby-nervous",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

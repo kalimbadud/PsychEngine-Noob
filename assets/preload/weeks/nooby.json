@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"crossroads",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "crossroads",
+	"weekCharacters": [
+		"nooby",
+		"bf",
+		"gf"
+	],
+	"storyName": "The Great Rapbattle",
+	"weekName": "crossroads",
+	"freeplayColor": [
+		255,
+		0,
+		20
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

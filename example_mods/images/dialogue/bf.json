@@ -1,0 +1,89 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-100,
+		100
+	],
+	"scale": 1.5,
+	"animations": [
+		{
+			"anim": "bf-bored",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_name": "bf-bored.png",
+			"idle_name": "bf-bored.png"
+		},
+		{
+			"loop_name": "bf-challange.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bf-challange.png",
+			"anim": "bf-challange",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bf-miss.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bf-miss.png",
+			"anim": "bf-miss",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bf-normal.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bf-normal.png",
+			"anim": "bf-normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bf-pog.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bf-pog.png",
+			"anim": "bf-pog",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bf-scared.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bf-scared.png",
+			"anim": "bf-scared",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "BF_Dialogue"
+}

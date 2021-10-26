@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="noobyPortrait.png"><SubTexture name="noobyPortrait hello0000" x="0" y="0" width="1094" height="1178" frameX="0" frameY="0" frameWidth="1094" frameHeight="1178" />
+<SubTexture name="noobyPortrait awkward0000" x="1094" y="0" width="1094" height="1178" frameX="0" frameY="0" frameWidth="1094" frameHeight="1178" />
+<SubTexture name="noobyPortrait surprised0000" x="0" y="1178" width="1094" height="1178" frameX="0" frameY="0" frameWidth="1094" frameHeight="1178" />
+<SubTexture name="noobyPortrait nervous0000" x="1094" y="1178" width="1094" height="1178" frameX="0" frameY="0" frameWidth="1094" frameHeight="1178" />
+</TextureAtlas>

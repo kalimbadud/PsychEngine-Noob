@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		230,
+		110
+	],
+	"scale": 1.5,
+	"animations": [
+		{
+			"anim": "noob-normal",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_name": "noob-normal.png",
+			"idle_name": "noob-normal.png"
+		},
+		{
+			"loop_name": "noob-oof.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "noob-oof.png",
+			"anim": "noob-oof",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "noob-starry.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "noob-starry.png",
+			"anim": "noob-starry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "noob-tired.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "noob-tired.png",
+			"anim": "noob-tired",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Nooby_Dialogue"
+}

@@ -1,0 +1,89 @@
+{
+	"position": [
+		-440,
+		-370
+	],
+	"dialogue_pos": "right",
+	"scale": 0.499999999999999,
+	"image": "bfBloxPortrait",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "bf-bored",
+			"idle_name": "bfBloxPortrait bored",
+			"loop_name": "bfBloxPortrait bored"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "bf-challange",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "bfBloxPortrait challenge",
+			"idle_name": "bfBloxPortrait challenge"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "bf-miss",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "bfBloxPortrait miss",
+			"idle_name": "bfBloxPortrait miss"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "bf-normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "bfBloxPortrait happy",
+			"idle_name": "bfBloxPortrait happy"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "bf-pog",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "bfBloxPortrait pog",
+			"idle_name": "bfBloxPortrait pog"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "bf-scared",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "bfBloxPortrait scared",
+			"idle_name": "bfBloxPortrait scared"
+		}
+	]
+}

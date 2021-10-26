@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf-bored.png" x="0" y="0" width="273" height="294"/>
+	<SubTexture name="bf-challange.png" x="273" y="0" width="273" height="294"/>
+	<SubTexture name="bf-miss.png" x="546" y="0" width="273" height="294"/>
+	<SubTexture name="bf-normal.png" x="819" y="0" width="273" height="294"/>
+	<SubTexture name="bf-pog.png" x="1092" y="0" width="273" height="294"/>
+	<SubTexture name="bf-scared.png" x="0" y="294" width="273" height="294"/>
+</TextureAtlas>

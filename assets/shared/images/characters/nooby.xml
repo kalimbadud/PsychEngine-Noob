@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nooby.png"><SubTexture name="nooby down10000" x="0" y="0" width="844" height="792" frameX="0" frameY="0" frameWidth="844" frameHeight="792" />
+<SubTexture name="nooby down20000" x="844" y="0" width="844" height="792" frameX="0" frameY="0" frameWidth="844" frameHeight="792" />
+<SubTexture name="nooby idle10000" x="1688" y="0" width="844" height="792" frameX="0" frameY="0" frameWidth="844" frameHeight="792" />
+<SubTexture name="nooby idle20000" x="0" y="792" width="844" height="792" frameX="0" frameY="0" frameWidth="844" frameHeight="792" />
+<SubTexture name="nooby idle30000" x="844" y="792" width="844" height="792" frameX="0" frameY="0" frameWidth="844" frameHeight="792" />
+<SubTexture name="nooby idle40000" x="1688" y="792" width="844" height="792" frameX="0" frameY="0" frameWidth="844" frameHeight="792" />
+<SubTexture name="nooby left10000" x="0" y="1584" width="844" height="792" frameX="0" frameY="0" frameWidth="844" frameHeight="792" />
+<SubTexture name="nooby left20000" x="844" y="1584" width="844" height="792" frameX="0" frameY="0" frameWidth="844" frameHeight="792" />
+<SubTexture name="nooby right10000" x="1688" y="1584" width="844" height="792" frameX="0" frameY="0" frameWidth="844" frameHeight="792" />
+<SubTexture name="nooby right20000" x="0" y="2376" width="844" height="792" frameX="0" frameY="0" frameWidth="844" frameHeight="792" />
+<SubTexture name="nooby up10000" x="844" y="2376" width="844" height="792" frameX="0" frameY="0" frameWidth="844" frameHeight="792" />
+<SubTexture name="nooby up20000" x="1688" y="2376" width="844" height="792" frameX="0" frameY="0" frameWidth="844" frameHeight="792" />
+</TextureAtlas>

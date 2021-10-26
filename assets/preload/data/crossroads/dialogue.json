@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bfBloxPortrait",
+			"boxState": "normal",
+			"expression": "bf-miss",
+			"text": "########## PLEASE HELP ME I'VE DIED 14 TIMES NOW"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gfBloxPortrait",
+			"boxState": "normal",
+			"expression": "gf-awkward",
+			"text": "i've taught you all i can what more do you need"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfBloxPortrait",
+			"boxState": "normal",
+			"expression": "bf-miss",
+			"text": "HELP"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "noobyPortrait",
+			"boxState": "normal",
+			"expression": "nooby-awkward",
+			"text": "uhhhhh"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "noobyPortrait",
+			"boxState": "normal",
+			"expression": "nooby-awkward",
+			"text": "what would i do though"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfBloxPortrait",
+			"boxState": "normal",
+			"expression": "bf-normal",
+			"text": "hey what if we rap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "noobyPortrait",
+			"boxState": "normal",
+			"expression": "nooby-hello",
+			"text": "wrong game but alright lol"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfBloxPortrait",
+			"boxState": "normal",
+			"expression": "bf-challange",
+			"text": "aight lets get this ###############"
+		}
+	]
+}

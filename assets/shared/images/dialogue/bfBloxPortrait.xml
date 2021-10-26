@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfBloxPortrait.png"><SubTexture name="bfBloxPortrait bored0000" x="0" y="0" width="1094" height="1178" frameX="0" frameY="0" frameWidth="1094" frameHeight="1178" />
+<SubTexture name="bfBloxPortrait challenge0000" x="1094" y="0" width="1094" height="1178" frameX="0" frameY="0" frameWidth="1094" frameHeight="1178" />
+<SubTexture name="bfBloxPortrait miss0000" x="0" y="1178" width="1094" height="1178" frameX="0" frameY="0" frameWidth="1094" frameHeight="1178" />
+<SubTexture name="bfBloxPortrait happy0000" x="1094" y="1178" width="1094" height="1178" frameX="0" frameY="0" frameWidth="1094" frameHeight="1178" />
+<SubTexture name="bfBloxPortrait pog0000" x="0" y="2356" width="1094" height="1178" frameX="0" frameY="0" frameWidth="1094" frameHeight="1178" />
+<SubTexture name="bfBloxPortrait scared0000" x="1094" y="2356" width="1094" height="1178" frameX="0" frameY="0" frameWidth="1094" frameHeight="1178" />
+</TextureAtlas>
