@@ -24,6 +24,20 @@ class CreditsState extends MusicBeatState
 	private var iconArray:Array<AttachedSprite> = [];
 
 	private static var creditsStuff:Array<Dynamic> = [ //Name - Icon name - Description - Link - BG Color
+		['Roblox Rapbattles Team'],
+		['dasher', 'dasher', 'Director and artist', '', 0xFFFFFFFF],
+		['Jorclai', 'jorclai', 'Director and artist', '', 0xFFFFFFFF],
+		['Kreagato', 'krea', 'Musician', '', 0xFFFFFFFF],
+		['kalimbadude', 'kalimba', 'Coder / programmer', '', 0xFFFFFFFF],
+		['n1ko', 'n1ko', 'Coder / programmer', '', 0xFFFFFFFF],
+		['JoelioBrolio', 'joelio', 'Coder / programmer', '', 0xFFFFFFFF],
+		['RUSSELL', 'russell', 'Artist', '', 0xFFFFFFFF],
+		['Kal', 'kal', 'Charter', '', 0xFFFFFFFF],
+		['ziggster5000', 'ziggster', 'Playtester', '', 0xFFFFFFFF],
+		[''],
+		['Special Thanks'],
+		['Dusttale Source Code', 'dusttale', 'Original creators of the EndingState code (which will be edited in the future!)', 'https://github.com/StampSz/Dusttale-Source-Code', 0xFFFFFFFF],
+		[''],
 		['Psych Engine Team'],
 		['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	0xFFFFDD33],
 		['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',				'https://twitter.com/river_oaken',		0xFFC30085],

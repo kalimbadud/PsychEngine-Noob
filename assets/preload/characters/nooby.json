@@ -1,123 +1,123 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-8,
-				154
+				141
 			],
-			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "nooby left",
-			"indices": []
+			"indices": [],
+			"name": "nooby left"
 		},
 		{
-			"offsets": [
-				49,
-				156
-			],
 			"loop": false,
+			"offsets": [
+				44,
+				137
+			],
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "nooby down",
-			"indices": []
+			"indices": [],
+			"name": "nooby down"
 		},
 		{
-			"offsets": [
-				32,
-				169
-			],
 			"loop": false,
-			"anim": "singUP",
+			"offsets": [
+				28,
+				153
+			],
 			"fps": 24,
-			"name": "nooby up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "nooby up"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				27,
-				160
+				148
 			],
-			"loop": false,
-			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "nooby right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "nooby right"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				24,
-				160
+				153
 			],
-			"loop": false,
-			"anim": "idle",
 			"fps": 24,
-			"name": "nooby idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "nooby idle"
 		},
 		{
+			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "idle-loop",
+			"fps": 24,
+			"name": "nooby idle",
 			"indices": [
 				10,
 				11,
 				12,
 				12
-			],
-			"name": "nooby idle"
+			]
 		},
 		{
+			"loop": true,
 			"offsets": [
 				-9,
 				10
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "nooby left",
 			"indices": [
 				12,
 				13,
 				14,
 				15
-			],
-			"name": "nooby left"
+			]
 		},
 		{
+			"loop": true,
 			"offsets": [
 				0,
 				27
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "nooby right",
 			"indices": [
 				15,
 				16,
 				17,
 				18
-			],
-			"name": "nooby right"
+			]
 		},
 		{
+			"loop": true,
 			"offsets": [
 				-6,
 				50
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "nooby up",
 			"indices": [
 				56,
 				57,
 				58,
 				59
-			],
-			"name": "nooby up"
+			]
 		}
 	],
 	"no_antialiasing": false,
